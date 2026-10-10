@@ -1,0 +1,14 @@
+
+{
+  "name": "kopi-senja-3d",
+  "version": "1.0.0",
+  "description": "Website coffee shop dengan animasi 3D Three.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
